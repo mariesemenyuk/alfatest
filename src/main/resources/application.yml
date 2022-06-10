@@ -1,0 +1,7 @@
+app_id: b647b4284bc843b4a29fc75bd733de19
+giphy_app_id: 2vvTZYowtwyE95RnHDSHWgJW0GGiZzZU
+rate_url: http://openexchangerates.org
+giphy_url: http://api.giphy.com
+
+server:
+  port: 8080
